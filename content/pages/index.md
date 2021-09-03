@@ -16,7 +16,7 @@ sections:
     background_color: none
     background_image: /images/AdobeStock_325328393.jpeg
     background_image_position: center top
-    background_image_size: auto
+    background_image_size: contain
     background_image_opacity: 60
   - type: grid_section
     title: Featured On

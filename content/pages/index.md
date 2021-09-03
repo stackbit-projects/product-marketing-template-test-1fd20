@@ -17,7 +17,7 @@ sections:
     background_image: /images/AdobeStock_325328393.jpeg
     background_image_position: center top
     background_image_size: cover
-    background_image_opacity: 60
+    background_image_opacity: 0
   - type: grid_section
     title: Featured On
     align: center
